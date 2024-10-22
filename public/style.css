@@ -1,0 +1,174 @@
+/* Importing modern font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Apply background */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url('https://your-tech-background-url.jpg'); /* Replace with a high-quality tech background */
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #f0f0f0;
+    position: relative;
+    min-height: 100vh;
+}
+
+/* Adding a background overlay for better readability */
+body::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7); /* Dark overlay for readability */
+    z-index: -1;
+}
+
+h1 {
+    color: #61dafb;
+    font-size: 3.5em;
+    text-align: center;
+    margin-bottom: 30px;
+    text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.8);
+    animation: fadeInUp 1s ease-in-out;
+    letter-spacing: 1.5px;
+}
+
+/* Form Styling */
+label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+    font-size: 1.1em;
+    color: #f0f0f0;
+}
+
+input, textarea, button {
+    width: 100%;
+    max-width: 400px;
+    padding: 14px;
+    margin: 15px 0;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.85);  /* Transparent black background for inputs */
+    color: #61dafb;
+    font-size: 1.1em;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
+}
+
+input:focus, textarea:focus {
+    outline: none;
+    border-color: #61dafb;
+    box-shadow: 0 0 15px rgba(97, 218, 251, 0.7);
+}
+
+/* Button Styling */
+button {
+    background-color: #61dafb;
+    color: white;
+    cursor: pointer;
+    border: none;
+    font-size: 1.2em;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+button:hover {
+    background-color: #21a1f1;
+    transform: translateY(-4px);
+}
+
+button:active {
+    transform: translateY(0);
+}
+
+/* Results Section */
+#results {
+    margin-top: 30px;
+    width: 100%;
+    max-width: 1000px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 30px;
+    animation: fadeInUp 0.8s ease;
+}
+
+/* Product Card Styling */
+.product-card {
+    border: 2px solid #333;
+    border-radius: 12px;
+    padding: 25px;
+    background-color: rgba(0, 0, 0, 0.85);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.product-card:hover {
+    transform: translateY(-10px) scale(1.02);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.6);
+}
+
+.thumbnail {
+    width: 110px;
+    height: auto;
+    border-radius: 8px;
+    transition: transform 0.4s ease;
+}
+
+.product-card:hover .thumbnail {
+    transform: rotate(-3deg) scale(1.1);
+}
+
+.product-card h3 {
+    margin: 0;
+    font-size: 1.5em;
+    color: white;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
+    transition: color 0.3s ease;
+}
+
+.product-card:hover h3 {
+    color: #61dafb;
+}
+
+.product-card p {
+    margin: 0.6em 0;
+    color: #ddd;
+    font-size: 1em;
+}
+
+a {
+    color: #61dafb;
+    text-decoration: none;
+    font-weight: bold;
+    position: absolute;
+    bottom: 15px;
+    right: 20px;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #21a1f1;
+    text-decoration: underline;
+}
+
+/* Animations */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

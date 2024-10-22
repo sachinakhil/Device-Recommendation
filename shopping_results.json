@@ -1,164 +1,1032 @@
 [
     {
         "position": 1,
-        "block_position": "top",
-        "title": "Apple iPhone 16 256 GB, Ultramarine",
-        "price": "\u20b989,900",
-        "extracted_price": 89900,
-        "link": "https://www.reliancedigital.in/apple-iphone-16-256-gb-ultramarine/p/494423021",
-        "source": "Reliance Digital",
-        "shipping": "Free by 16/10",
-        "thumbnail": "https://serpapi.com/searches/6704f1b564f11d0d51489690/images/30cbc6b0cad5b3b555b5f1539d141433930450031b31c910256ba7cf52d57557.webp",
+        "title": "Realme Buds Air 5 True Wireless Earbuds(Onesize) by Myntra",
+        "link": "https://www.amazon.in/realme-Wireless-Titanized-Charging-Ultra-Low/dp/B0CLSTGP3B?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1WYWER0W24N8S",
+        "product_link": "https://www.google.com/shopping/product/9219398411168747314?gl=in",
+        "product_id": "9219398411168747314",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=9219398411168747314",
+        "number_of_comparisons": "10+",
+        "comparison_link": "https://www.google.com/shopping/product/9219398411168747314/offers?uule=w+CAIQICIFSW5kaWE&q=Bluetooth+earphones+5000&hl=en&gl=in&prds=eto:6680243447567491269_0,pid:1814276989403248582,rsk:PC_7674699287319745111&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECP8K",
+        "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A6680243447567491269_0%2Cpid%3A1814276989403248582%2Crsk%3APC_7674699287319745111&gl=in&hl=en&offers=1&product_id=9219398411168747314&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECP8K",
+        "source": "Amazon.in",
+        "price": "\u20b92,599.00",
+        "extracted_price": 2599.0,
+        "rating": 4.8,
+        "reviews": 717,
         "extensions": [
-            "Free by 16/10",
-            "IPhone",
-            "22 hours talk time",
-            "256 GB",
-            "Ultra Wide Angle"
-        ]
+            "Noise Cancelling",
+            "White"
+        ],
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQIJMWtNmmVwLk2EuYSygri2-GqMIuj_iXjNRdLmQ5ZFhmE91efqVylr5-En3sfuH29jHZ2Xz-S0_5D5oozuiwDaIWsbUtH8tAJhqeU1Hpw3ekymPSPcdNy3w&usqp=CAE"
     },
     {
         "position": 2,
-        "block_position": "top",
-        "title": "Apple iPhone 16 256 GB, Black",
-        "price": "\u20b989,900",
-        "extracted_price": 89900,
-        "link": "https://www.reliancedigital.in/apple-iphone-16-256-gb-black/p/494423018",
-        "source": "Reliance Digital",
-        "shipping": "Free by 16/10",
-        "thumbnail": "https://serpapi.com/searches/6704f1b564f11d0d51489690/images/30cbc6b0cad5b3b555b5f1539d141433e28e6aaf5231483e4ecab30d9ac8f1cd.webp",
+        "title": "Boult x Mustang Torq Newly Launched Truly Wireless in Ear Earbuds with 50H ...",
+        "link": "https://www.glowroad.com/pd/boult-x-mustang-torq-newly-launched-truly-wireless-in-ear-earbuds-with-50h-playtime-app-support-quad-mic-enc-45ms-low-latency-breathing-leds-13mm-colour-mustang-torq/31484040?srsltid=AfmBOooDKGklvGGCnC4w6R5mGabd9mdP0lFun1NOPlN1gvaPHcNxjO09a4s",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:14841877025860424791",
+        "product_id": "14841877025860424791",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=14841877025860424791",
+        "source": "GlowRoad",
+        "price": "\u20b9163.00",
+        "extracted_price": 163.0,
         "extensions": [
-            "Free by 16/10",
-            "IPhone",
-            "256 GB",
-            "Ultra Wide Angle",
-            "Single SIM"
-        ]
+            "With Microphone"
+        ],
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSVtPckfW_0PvhCi_pZESw0LHpUNIKHxUGp1YYEH-5r64nooE-BOqlRtD5VFiI8XySqrC0w4o6sogpIKe0waFiYKvSiMy77Tg&usqp=CAE"
     },
     {
         "position": 3,
-        "block_position": "top",
-        "title": "Apple iPhone 16 Plus (256GB Storage, Black)",
-        "price": "\u20b999,900",
-        "extracted_price": 99900,
-        "link": "https://www.vijaysales.com/apple-iphone-16-plus-256gb-storage-black/28162",
-        "source": "Vijay Sales",
-        "shipping": "Free by 10/10",
-        "thumbnail": "https://serpapi.com/searches/6704f1b564f11d0d51489690/images/30cbc6b0cad5b3b555b5f1539d141433b1cd6f85bf9d28540191bbae1de5866d.webp",
+        "title": "Redmi Buds 5c Earbuds, 40db Hybrid Anc Tws, 4 Mic, 5 Eq Profiles, 36hrs Playtime ...",
+        "link": "http://www.flipkart.com/redmi-buds-5c-earbuds-40db-hybrid-anc-tws-4-mic-5-eq-profiles-36hrs-playtime-bluetooth/p/itmfa8dbe290cd66?pid=ACCH28P6WQQSRG2G&lid=LSTACCH28P6WQQSRG2G2O7SY1&marketplace=FLIPKART&cmpid=content_headphone_8965229628_gmc",
+        "product_link": "https://www.google.com/shopping/product/9984559020679446960?gl=in",
+        "product_id": "9984559020679446960",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=9984559020679446960",
+        "number_of_comparisons": "3",
+        "comparison_link": "https://www.google.com/shopping/product/9984559020679446960/offers?uule=w+CAIQICIFSW5kaWE&q=Bluetooth+earphones+5000&hl=en&gl=in&prds=eto:11985464692638760562_0,pid:17533599393164158762&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECJgL",
+        "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A11985464692638760562_0%2Cpid%3A17533599393164158762&gl=in&hl=en&offers=1&product_id=9984559020679446960&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECJgL",
+        "source": "Flipkart",
+        "price": "\u20b91,599.00",
+        "extracted_price": 1599.0,
         "extensions": [
-            "Free by 10/10",
-            "IPhone",
-            "256 GB",
-            "Ultra Wide Angle",
-            "Dual SIM"
-        ]
+            "With Microphone"
+        ],
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT0aMl0yUxmbiKUxmJJsVPSC5nji81S3ttTVPlqmRqWDYWw8kyBq67xmb9gJolBzhIjY9bGSaAdc_3mndP63v-ddC0xgNzf19Wp1yV7ZgMjmpJQrHrIxYhHWOTC&usqp=CAE"
     },
     {
         "position": 4,
-        "block_position": "top",
-        "title": "Apple iPhone 16 (256GB Storage, Black)",
-        "price": "\u20b989,900",
-        "extracted_price": 89900,
-        "link": "https://www.vijaysales.com/apple-iphone-16-256gb-storage-black/28165",
-        "source": "Vijay Sales",
-        "shipping": "Free by 10/10",
-        "thumbnail": "https://serpapi.com/searches/6704f1b564f11d0d51489690/images/30cbc6b0cad5b3b555b5f1539d141433487873ebfa60cd6bb5195cb0de25356e.webp",
+        "title": "Boult x Mustang Derby Newly Launched Truly Wireless in Ear Earbuds with 100H ...",
+        "link": "https://www.glowroad.com/pd/boult-x-mustang-derby-newly-launched-truly-wireless-in-ear-earbuds-with-100h-playtime-built-in-app-support-dual-device-pairing-quad-mic-enc-45ms-low-latency-ipx5-ear-buds-tws-bluetooth-5-4/31607210?srsltid=AfmBOopaJydDfS2VnIfT76o2QuhleP3K9qpFwXsMHvbYHudTFV2kOJUxoZU",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:14648414650104717847",
+        "product_id": "14648414650104717847",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=14648414650104717847",
+        "source": "GlowRoad",
+        "price": "\u20b9179.00",
+        "extracted_price": 179.0,
         "extensions": [
-            "Free by 10/10",
-            "IPhone",
-            "256 GB",
-            "Ultra Wide Angle",
-            "Single SIM"
-        ]
+            "With Microphone"
+        ],
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQaRMMMz2ZnACMmeUDgEFXAUklUNg_W44YHapn3f3nxIOt8WwW20iSChwSKs5u9AKtnSPoOmVpEuNQOaJ_c5darQdnMdnsF&usqp=CAE"
     },
     {
         "position": 5,
-        "block_position": "top",
-        "title": "New Apple iPhone 16 Pro Max 256GB Black Titanium (2024)",
-        "price": "\u20b91,44,900",
-        "extracted_price": 144900,
-        "link": "https://www.apple.com/in/shop/go/product/MYWV3?cid=aos-in-seo-pla-iphone-iphone",
-        "source": "Apple",
-        "thumbnail": "https://serpapi.com/searches/6704f1b564f11d0d51489690/images/30cbc6b0cad5b3b555b5f1539d141433b0421227da6baf29232db4df3f16e9d1.webp",
+        "title": "realme Buds Air 5 Pro Truly Wireless in-Ear Earbuds (Sunrise Beige)",
+        "link": "http://www.myntra.com/Headphones/Realme/Realme-Buds-Air-5-Pro-with-50dB-ANC-360-Spatial-Audio-and-Upto-40-hours-Playback-EarBuds-/24856334/buy",
+        "product_link": "https://www.google.com/shopping/product/1646018149948447018?gl=in",
+        "product_id": "1646018149948447018",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=1646018149948447018",
+        "number_of_comparisons": "5+",
+        "comparison_link": "https://www.google.com/shopping/product/1646018149948447018/offers?uule=w+CAIQICIFSW5kaWE&q=Bluetooth+earphones+5000&hl=en&gl=in&prds=eto:14777560504255563316_0,pid:8900543926130238271,rsk:PC_8300095422650417269&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECLYL",
+        "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A14777560504255563316_0%2Cpid%3A8900543926130238271%2Crsk%3APC_8300095422650417269&gl=in&hl=en&offers=1&product_id=1646018149948447018&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECLYL",
+        "source": "Myntra",
+        "price": "\u20b94,999.00",
+        "extracted_price": 4999.0,
+        "rating": 4.5,
+        "reviews": 391,
         "extensions": [
-            "Free delivery",
-            "Free delivery",
-            "IPhone",
-            "256 GB",
-            "Ultra Wide Angle",
-            "Single SIM"
-        ]
+            "Noise Cancelling",
+            "\u20b9200 OFF"
+        ],
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRnObdZJ0xUQhXVY7mgXyznR-4_UeZ3MSGPK2x6s9SCjS8_TaorTKeMFREaBUeu87jN3nppbZMlylpfEKvHa75sl1P26p5JFJivXJTgDBbLs79AkT_MIocK&usqp=CAE",
+        "tag": "\u20b9200 OFF"
     },
     {
         "position": 6,
-        "block_position": "top",
-        "title": "Apple iPhone 16 Plus (256GB Storage, Teal)",
-        "price": "\u20b999,900",
-        "extracted_price": 99900,
-        "link": "https://www.vijaysales.com/apple-iphone-16-plus-256gb-storage-teal/28166",
-        "source": "Vijay Sales",
-        "shipping": "Free by 10/10",
-        "thumbnail": "https://serpapi.com/searches/6704f1b564f11d0d51489690/images/30cbc6b0cad5b3b555b5f1539d141433d4d75f62144e38beab2258dfe8f8feb7.webp",
+        "title": "Moondrop BLOCK V5.4 Bluetooth True Wireless TWS Earbuds, Black",
+        "link": "https://conceptkart.com/products/moondrop-block-true-wireless-earbuds?currency=INR&variant=41543894990922&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=d0ec0891a08e&srsltid=AfmBOoqqN8HaN820oS7ddU4gFN30qOz36uw6jL1GPv-foyvKs_wuqVua-DQ",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:13444838434009274048",
+        "product_id": "13444838434009274048",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=13444838434009274048",
+        "source": "Concept Kart",
+        "price": "\u20b92,190.00",
+        "extracted_price": 2190.0,
         "extensions": [
-            "Free by 10/10",
-            "IPhone",
-            "256 GB",
-            "Ultra Wide Angle",
-            "Dual SIM"
-        ]
+            "Black"
+        ],
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTqUnKMiEQSXUuhklsQEf0_O9-gEUrF3UpXX4n_ZI9Ex2NriUj4EVYT8PigmWvbXP3tz-bELeMSQ96UnkgTpMqGg-MkvEDZVsWtaqSfGSR7noU2R8MbX2WjdZW3&usqp=CAE"
     },
     {
         "position": 7,
-        "block_position": "top",
-        "title": "Apple iPhone 16 (256GB Storage, Teal)",
-        "price": "\u20b989,900",
-        "extracted_price": 89900,
-        "link": "https://www.vijaysales.com/apple-iphone-16-256gb-teal/28173",
-        "source": "Vijay Sales",
-        "shipping": "Free by 10/10",
-        "thumbnail": "https://serpapi.com/searches/6704f1b564f11d0d51489690/images/30cbc6b0cad5b3b555b5f1539d14143304789a9cf099d15aacc718e39fdc7614.webp",
+        "title": "boAt Nirvana Nebula True Wireless Earbuds(Onesize) by Myntra",
+        "link": "https://www.reliancedigital.in/boat-nirvana-nebula-with-upto-50-hrs-playtime-anc-upto-35-db-dolby-audio-ai-enx-technology-in-ear-detection-celestial-white-/p/494410588?srsltid=AfmBOoorTN1IySWu68v9cq3wQyTLcfjSG_fsN36Ruy9RTNBTHo3s4qs9N7Q",
+        "product_link": "https://www.google.com/shopping/product/6281740296047179335?gl=in",
+        "product_id": "6281740296047179335",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=6281740296047179335",
+        "number_of_comparisons": "5+",
+        "comparison_link": "https://www.google.com/shopping/product/6281740296047179335/offers?uule=w+CAIQICIFSW5kaWE&q=Bluetooth+earphones+5000&hl=en&gl=in&prds=eto:4944416390491529745_0,pid:10111438265101437946,rsk:PC_13728234120433399248&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECNEL",
+        "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A4944416390491529745_0%2Cpid%3A10111438265101437946%2Crsk%3APC_13728234120433399248&gl=in&hl=en&offers=1&product_id=6281740296047179335&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECNEL",
+        "source": "Reliance Digital",
+        "price": "\u20b93,299.00",
+        "extracted_price": 3299.0,
+        "rating": 3.7,
+        "reviews": 20,
         "extensions": [
-            "Free by 10/10",
-            "IPhone",
-            "256 GB",
-            "Ultra Wide Angle",
-            "Single SIM"
-        ]
+            "Noise Cancelling",
+            "Siri"
+        ],
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRP-LWk8cZwLHoLQNlC8DUIiRkAd8gq6xl0emRQwISWFKT2_ECiP-Rz8wQb7WhL2rICBkQm_oFLH1DtHPud_kz7cWW_WQmnHYE93yY45Ac-&usqp=CAE"
     },
     {
         "position": 8,
-        "block_position": "top",
-        "title": "Apple iPhone 16 (256GB Storage, Ultramarine)",
-        "price": "\u20b989,900",
-        "extracted_price": 89900,
-        "link": "https://www.vijaysales.com/apple-iphone-16-256gb-storage-ultramarine/28176",
-        "source": "Vijay Sales",
-        "shipping": "Free by 10/10",
-        "thumbnail": "https://serpapi.com/searches/6704f1b564f11d0d51489690/images/30cbc6b0cad5b3b555b5f1539d1414337999fa97d1cc52da9df052d783b52adf.webp",
+        "title": "Mivi Duopods I6 Tws, Engineered For Athletes, Ipx 4.0,13mm Bass,55+h Playtime ...",
+        "link": "http://www.flipkart.com/mivi-duopods-i6-tws-engineered-athletes-ipx-4-0-13mm-bass-55-h-playtime-bluetooth/p/itm81e1add17bb53?pid=ACCH238YHYJHG9CN&lid=LSTACCH238YHYJHG9CN4IW69E&marketplace=FLIPKART&cmpid=content_headphone_8965229628_gmc",
+        "product_link": "https://www.google.com/shopping/product/2206772332820121215?gl=in",
+        "product_id": "2206772332820121215",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=2206772332820121215",
+        "source": "Flipkart",
+        "price": "\u20b9699.00",
+        "extracted_price": 699.0,
         "extensions": [
-            "Free by 10/10",
-            "IPhone",
-            "22 hours talk time",
-            "256 GB",
-            "Ultra Wide Angle"
-        ]
+            "With Microphone"
+        ],
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTJytooW_r3dRmlwFVtmJjG3wMSHT1_xKnXTNmnlDV19OqaGZ_ln9hTpaQygoI_2ukYM_eLEarusqDqjnCy295lmaKDzNbLh1J6im3LPhM&usqp=CAE"
     },
     {
         "position": 9,
-        "block_position": "top",
-        "title": "Apple iPhone 16 Plus 256 GB, Ultramarine",
-        "price": "\u20b999,900",
-        "extracted_price": 99900,
-        "link": "https://www.reliancedigital.in/apple-iphone-16-plus-256-gb-ultramarine/p/494423036",
-        "source": "Reliance Digital",
-        "shipping": "Free by 16/10",
-        "thumbnail": "https://serpapi.com/searches/6704f1b564f11d0d51489690/images/30cbc6b0cad5b3b555b5f1539d141433b1da130c74cdfce9dcde969da3f97c5b.webp",
+        "title": "Redmi Buds 5 With 46db Hybrid Active Noise Cancellation, Dual-mic Ai Call ...",
+        "link": "https://www.mi.com/in/product/redmi-buds-5?srsltid=AfmBOoqXe5NhFc5-fLkM-9cJz7p8LwmfukuaS-BMJcPU_5csUwdRHm_4TtI",
+        "product_link": "https://www.google.com/shopping/product/10233541061665470707?gl=in",
+        "product_id": "10233541061665470707",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=10233541061665470707",
+        "number_of_comparisons": "10+",
+        "comparison_link": "https://www.google.com/shopping/product/10233541061665470707/offers?uule=w+CAIQICIFSW5kaWE&q=Bluetooth+earphones+5000&hl=en&gl=in&prds=eto:5391336753087025215_0,pid:1347775610356764003&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECOoL",
+        "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A5391336753087025215_0%2Cpid%3A1347775610356764003&gl=in&hl=en&offers=1&product_id=10233541061665470707&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECOoL",
+        "source": "Mi.com",
+        "price": "\u20b92,299.00",
+        "extracted_price": 2299.0,
         "extensions": [
-            "Free by 16/10",
-            "IPhone",
-            "256 GB",
-            "Ultra Wide Angle",
-            "Dual SIM"
-        ]
+            "Noise Cancelling"
+        ],
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQHL9IDICFQdS22FjYxzJSkEW1BT0QGua0UWUKqdbaiVtbBqmaiazHQ21UPLjkQUdzMQtnHGcQQjH894rVT93degO8q3ONqobTnWVMHDPe5eK8bIehChB6O&usqp=CAE"
+    },
+    {
+        "position": 10,
+        "title": "boAt Airdopes Max in Ear TWS Earbuds with 100 HRS Playtime, Quad Mics with ENx ...",
+        "link": "https://www.glowroad.com/pd/boat-airdopes-max-in-ear-tws-earbuds-with-100-hrs-playtime-quad-mics-with-enx-tech-beast-mode-50ms-low-latency-asap-charge-bluetooth-v5-3/31362375?srsltid=AfmBOoondlyMWDLC92YSy2TqlrT7fuVpg6eieD-qoKMPVkswzplshKikQmA",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:17393801356999329985",
+        "product_id": "17393801356999329985",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=17393801356999329985",
+        "source": "GlowRoad",
+        "price": "\u20b9156.00",
+        "extracted_price": 156.0,
+        "extensions": [
+            "With Microphone"
+        ],
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQVBcawVKtt_n6Vl9J1o3CKd1C6Wq2UYdXvufIjrgIoNDjtNxFx_NyvGWOk7yALz3T16gwXhvoBO5KpYQRs2V0J8yF4XC6p&usqp=CAE"
+    },
+    {
+        "position": 11,
+        "title": "boAt Newly Launched Nirvana Space TWS in Ear Earbuds (Cosmic Black)",
+        "link": "https://www.boat-lifestyle.com/products/boat-nirvana-space-wireless-earbuds-with-anc?variant=41331027509346&currency=INR&srsltid=AfmBOoqXKl5AMXPW99KAPFcWUu8aV9zQwuKmfeRfS6ozRF4o4oy7sJxGGYw",
+        "product_link": "https://www.google.com/shopping/product/613305931118708679?gl=in",
+        "product_id": "613305931118708679",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=613305931118708679",
+        "number_of_comparisons": "10+",
+        "comparison_link": "https://www.google.com/shopping/product/613305931118708679/offers?uule=w+CAIQICIFSW5kaWE&q=Bluetooth+earphones+5000&hl=en&gl=in&prds=eto:16062278772159067431_0,pid:152796120512209420,rsk:PC_1007094054806038690&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECMsM",
+        "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A16062278772159067431_0%2Cpid%3A152796120512209420%2Crsk%3APC_1007094054806038690&gl=in&hl=en&offers=1&product_id=613305931118708679&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECMsM",
+        "source": "boAt",
+        "price": "\u20b92,199.00",
+        "extracted_price": 2199.0,
+        "rating": 5.0,
+        "reviews": 1,
+        "extensions": [
+            "Noise Cancelling"
+        ],
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ5m_nVha3GOmIBjguFxygoymzc4D3e7hmzeUH5qqJzztuIBUK6VCvKViAGSdApy0GDo7FfuSmdPtNOcLhN3Ze8Q231ylG8Po-z506UYepTmptCpGFt3zsj&usqp=CAE"
+    },
+    {
+        "position": 12,
+        "title": "F808 Bluetooth 5.0 Waterproof Bone Conduction Sport Bluetooth Earphone(Black)",
+        "link": "https://mobspares.com/products/f808-bluetooth-5-0-waterproof-bone-conduction-sport-bluetooth-earphoneblack?currency=EUR&variant=42979163635906&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=ec0a8f9d137b",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:3070414114204658262",
+        "product_id": "3070414114204658262",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=3070414114204658262",
+        "source": "mobspares",
+        "price": "\u20b92,053.26",
+        "extracted_price": 2053.26,
+        "alternative_price": {
+            "price": "\u20ac22.58",
+            "extracted_price": 22.58,
+            "currency": "EUR"
+        },
+        "rating": 4.0,
+        "reviews": 1,
+        "extensions": [
+            "With Microphone",
+            "Black"
+        ],
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQrx8iXKPxKj0dTALrtvDWV_FLG0yda2D_mtI7oSxcKxPt5O-BvBHrJzTMuIvD5AMFd_ir1g7sE42VKV6UDtN0qXT5b8fq7SAfOs298Kd9FWgqYbXHxTeyxfg&usqp=CAE"
+    },
+    {
+        "position": 13,
+        "title": "Redmi Buds 5 Truly Wireless Bluetooth Ear Buds (TWS) with Upto 46dB Hybrid Noise ...",
+        "link": "https://www.jiomart.com/p/electronics/redmi-buds-5-truly-wireless-bluetooth-ear-buds-tws-with-upto-46db-hybrid-noise-cancellation-dual-mic-ai-call-enhancement-10mins-for-4hours-fast-charging-with-upto-38hrs-playback-fusion-purple/608872950?source=shoppingads",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:12435858035384802679",
+        "product_id": "12435858035384802679",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=12435858035384802679",
+        "source": "JioMart",
+        "price": "\u20b92,999.00",
+        "extracted_price": 2999.0,
+        "rating": 4.8,
+        "reviews": 3018,
+        "extensions": [
+            "With Microphone"
+        ],
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTPuyLvMO4VRPd9vnGtVhLM-EuTA5lT8foFGyt4Gmn6ApR6_9AAf591Tf-q0NQ7Hie7ZMiYfZYG-aQPQ_v839ezjPr-M2SHTyOiV-4-viXQPKucq5p38UVCrg&usqp=CAE"
+    },
+    {
+        "position": 14,
+        "title": "Unix UX-5000 Shockwave Neckband with 48 Hr Battery Life Green",
+        "link": "https://unixindia.in/products/unix-ux-5000-shockwave-neckband-with-48-hr-battery-life?variant=48805920342296&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorpOcANaOB8cuOifH46z_NBnQN7YGXy8Wf5FIk-PMYqmcC5IG0n2SQ&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:17377608647520056478",
+        "product_id": "17377608647520056478",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=17377608647520056478",
+        "source": "Unixindia.",
+        "price": "\u20b9649.00",
+        "extracted_price": 649.0,
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQGQGm4pGFK0zowIW_uO_qXRwSkH3HC6necBWvGkeBxlXwiTMyyX4PhiG0dfwXGv1T19V7SWmBd9_fcQRV-iV5KxIoMjUQNbjG1rxFSGZs&usqp=CAE"
+    },
+    {
+        "position": 15,
+        "title": "Redmi Buds 5A, Active Noise Cancelling True Wireless Earbuds, upto 30hr playtime ...",
+        "link": "https://www.vijaysales.com/redmi-buds-5a-with-active-noise-cancelling-true-wireless-earbuds-upto-30hr-playtime-ai-powered-enc-for-clear-calls-black/27927",
+        "product_link": "https://www.google.com/shopping/product/16449774887320960368?gl=in",
+        "product_id": "16449774887320960368",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=16449774887320960368",
+        "number_of_comparisons": "5+",
+        "comparison_link": "https://www.google.com/shopping/product/16449774887320960368/offers?uule=w+CAIQICIFSW5kaWE&q=Bluetooth+earphones+5000&hl=en&gl=in&prds=eto:9321442415587082190_0,pid:17923666609019967416,rsk:PC_7403708578395248446&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECIIN",
+        "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A9321442415587082190_0%2Cpid%3A17923666609019967416%2Crsk%3APC_7403708578395248446&gl=in&hl=en&offers=1&product_id=16449774887320960368&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECIIN",
+        "source": "Vijay Sales",
+        "price": "\u20b91,299.00",
+        "extracted_price": 1299.0,
+        "rating": 5.0,
+        "reviews": 1,
+        "extensions": [
+            "Noise Cancelling",
+            "Black"
+        ],
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBlGiOjMa96k_7YhgP6C8yREmQeE3oIb8AVfwzjJ59kJuHyOUZtCN2SduNYeSzVGErJIC0eA0HcAd8NKeeXPzwp75Tkjw5pUEPOZd6qHjlO57CEsc8PmkSig&usqp=CAE"
+    },
+    {
+        "position": 16,
+        "title": "DUDAO U5B in-Ear Wireless Bluetooth Neckband Mic & in-Line Control Deep Bass ...",
+        "link": "https://www.amazon.in/DUDAO-Bluetooth-Reduction-Neckaband-Black/dp/B0C9HRGM7G?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1N4RN13XJQS95",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:18113128743559070737",
+        "product_id": "18113128743559070737",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=18113128743559070737",
+        "source": "Amazon.in",
+        "price": "\u20b9699.00",
+        "extracted_price": 699.0,
+        "extensions": [
+            "With Microphone",
+            "Black"
+        ],
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSopjZW3F9D3bWPvanHE_D8G_9tJISdTyLKv09_Pj2hip5YG4leO4JOXag6e9IE_LuX2JCqpgNIhRJbBqpDgLveU8bmgb-bQBuAi7ge2FeSBsZTqwHcM8Ld&usqp=CAE"
+    },
+    {
+        "position": 17,
+        "title": "boAt Airdopes 161 TWS Earbuds with ASAP Charge, 17H Playtime, IWP , Immersive ...",
+        "link": "https://vlebazaar.in/boAt-Airdopes-161-TWS-Earbuds-with-ASAPTM-Charge-17H-Playtime-IWPTM-Immersive?srsltid=AfmBOopYdzBznFD-BfTabdiUB6h_TeDAr7ESSs6l_LVuoCJ-pATQyetM93A",
+        "product_link": "https://www.google.com/shopping/product/270146867978574192?gl=in",
+        "product_id": "270146867978574192",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=270146867978574192",
+        "number_of_comparisons": "5+",
+        "comparison_link": "https://www.google.com/shopping/product/270146867978574192/offers?uule=w+CAIQICIFSW5kaWE&q=Bluetooth+earphones+5000&hl=en&gl=in&prds=eto:13369593347391834324_0,pid:8684484512060048862,rsk:CID_270146867978574192&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECJ4N",
+        "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A13369593347391834324_0%2Cpid%3A8684484512060048862%2Crsk%3ACID_270146867978574192&gl=in&hl=en&offers=1&product_id=270146867978574192&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECJ4N",
+        "source": "vlebazaar",
+        "price": "\u20b9699.00",
+        "extracted_price": 699.0,
+        "rating": 4.9,
+        "reviews": 162,
+        "extensions": [
+            "With Microphone",
+            "Blue"
+        ],
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTxqWBS_NDiQE3hktuNCQ7K3OJl_mVzyNLVX7m0Yub3TYerabY30-3pQQgbEtPPOJWMES9zg7rHf7qC2wAIJ2Nr6aP6UqWs&usqp=CAE"
+    },
+    {
+        "position": 18,
+        "title": "boAt Airdopes Max in Ear TWS Earbuds with 100 HRS Playtime, Quad Mics with ENx ...",
+        "link": "https://www.glowroad.com/pd/boat-airdopes-max-in-ear-tws-earbuds-with-100-hrs-playtime-quad-mics-with-enx-tech-beast-mode-50ms-low-latency-asap-charge-bluetooth-v5-3-and-iwp-carbon-black/31362388?srsltid=AfmBOopdW-a7RnM9J7k9wtQ1k24c2RXcoJn9ReTmozY4qQpc60N_m-A8TgM",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:17647640705082014674",
+        "product_id": "17647640705082014674",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=17647640705082014674",
+        "source": "GlowRoad",
+        "price": "\u20b9156.00",
+        "extracted_price": 156.0,
+        "extensions": [
+            "With Microphone"
+        ],
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRGcVx-cYZIGgeo8BAnIP52ipgFPWNOVc4ElQpvCHepDPvmr4xuUiovhA8yHx2ESedZIbMQpv4IXTSOLgzAHs8nOckqEMYf&usqp=CAE"
+    },
+    {
+        "position": 19,
+        "title": "Tws I12 Bluetooth Wireless Earbuds Headset Touch Sensor Headphone R161 Bluetooth ...",
+        "link": "https://www.shopsy.in/tws-i12-bluetooth-wireless-earbuds-headset-touch-sensor-headphone-r161/p/itm7470e901ae7f5?pid=XHOGUDJUWWV4VU3J&lid=LSTXHOGUDJUWWV4VU3J1QGUGL&marketplace=FLIPKART",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:7340479679725732089",
+        "product_id": "7340479679725732089",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=7340479679725732089",
+        "source": "Shopsy By Flipkart",
+        "price": "\u20b9300.00",
+        "extracted_price": 300.0,
+        "extensions": [
+            "White"
+        ],
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT8dlk_9XOVpJ_ZUeKTmWlR13b7WbBvYouppD_CF3xbeW29wlAzCLKftGpslaUlLuXhr3zKsQwnU_o9p1cCwu81I6PMOEJYGtLeD5I7wVoCg_4uGAOAYmUFIw&usqp=CAE"
+    },
+    {
+        "position": 20,
+        "title": "Wireless Bluetooth Earbuds True Free 5.0 in-Ear",
+        "link": "https://onecart.co.in/product/wireless-bluetooth-earbuds-true-free-5-0-in-ear/?srsltid=AfmBOor9hjPu0WPPSumXrFFNnPu2bg5tpp2oQvGPKsdEaZ9TM45hUvU-dKM",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:17160263143901278619",
+        "product_id": "17160263143901278619",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=17160263143901278619",
+        "source": "OneCart",
+        "price": "\u20b9799.00",
+        "extracted_price": 799.0,
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTmmMhQ23hQ6Tzgx45AjOkmbkJXtxWXu6pfGQzkO9vAduxYOd35Lvf2kMXwwGVbq7Fc02k3ro-KSvb14n6p6z1gFttU-D5K&usqp=CAE"
+    },
+    {
+        "position": 21,
+        "title": "Buds Clarity 5 V2 True Wireless Earbuds - 80H Playtime, Dual Pairing, 6Mic Adv. Enc",
+        "link": "https://www.truke.in/product/183580ec7e2af1717003334",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:14407428566528869555",
+        "product_id": "14407428566528869555",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=14407428566528869555",
+        "source": "truke.in",
+        "price": "\u20b9849.00",
+        "extracted_price": 849.0,
+        "extensions": [
+            "With Microphone"
+        ],
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQXe2DkpH8jhXODe7gDsDji4dx426w5UUBIo6JJaQxvkQQFPTvsUsxWbSSQ0KbCqqY73l0lzj4wSQxofJ12W8JBUzfaevEb9nlbYVcft0cGlB0nKg9A1ODQ&usqp=CAE"
+    },
+    {
+        "position": 22,
+        "title": "Reconnect Dank Wireless Earphone with IPX4 Water Resistant, Up to 16 Hours of ...",
+        "link": "https://www.reliancedigital.in/reconnect-dank-wireless-earphone-with-ipx4-water-resistant-up-to-16-hours-of-playtime-swift-charging-multi-connect-function-bluetooth-v5-0-grey-/p/492796722?srsltid=AfmBOooC98LsdkjiYasxRttIpV_ZToEvFzhFbH0bFI6fF4rc4X3H9nvBp7k",
+        "product_link": "https://www.google.com/shopping/product/3970547689616799439?gl=in",
+        "product_id": "3970547689616799439",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=3970547689616799439",
+        "source": "Reliance Digital",
+        "price": "\u20b9499.00",
+        "extracted_price": 499.0,
+        "extensions": [
+            "Grey",
+            "Google Assistant"
+        ],
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQwBHz6cz9d0rW0aD4lCQT8c9Ef4w0-X6sRQmlIcfc0FopZzcLOJlAD4YiWPQVN2agCRppD0GMhc9Iawl9Y8By-xOQwWtm3IWfhu0dXV_A1b86pmDu4tOZE&usqp=CAE"
+    },
+    {
+        "position": 23,
+        "title": "JEDXR5 TWS5.0 Wireless Bluetooth Headset Headphone with Charging Box",
+        "link": "https://www.uniquebud.com/products/jedxr5-tws5-0-wireless-bluetooth-headset-headphone-with-charging-box?currency=INR&variant=43675693383960&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=401c28db011a&srsltid=AfmBOopAz0D5uPaVpMxjnmN8BszolONiZ1yXtXxcnUiY8MA2_VSu6_6FZ54",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:17087845418372660628",
+        "product_id": "17087845418372660628",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=17087845418372660628",
+        "source": "UniqueBud India",
+        "price": "\u20b93,416.00",
+        "extracted_price": 3416.0,
+        "extensions": [
+            "With Microphone"
+        ],
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtNxY10epqK_yQ1qHrgz8NxzkRH3BOP1gcyzugnDt39uWbtzmJ23d_nJMobrVuUBGO4fVkNAff4VWclTbESrxaloV6oShKKVlX-DBnyc3H7ndEinTO1NFXFA&usqp=CAE"
+    },
+    {
+        "position": 24,
+        "title": "Bluetooth 5.0 Earphone",
+        "link": "https://www.meanbuy.com/shop/product/Bluetooth_5_0_Earphone",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:15976216516758167225",
+        "product_id": "15976216516758167225",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=15976216516758167225",
+        "source": "MeanBuy",
+        "price": "\u20b93,199.00",
+        "extracted_price": 3199.0,
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT7lfVsWPsYcUyjCQBzUxhkU_BBzoul-e7mxouhvJi231oC0wuzAk3ZsYIjTOH4r19V5HcNeSko_JAcubOZXjFf8Qhqtfhi6foEWPhR6kDDaoOt3EPHy3KE&usqp=CAE"
+    },
+    {
+        "position": 25,
+        "title": "HAMMER Aeromax ANC (32 dB) TWS, BT v5.4, Low Latency, In-Ear Bluetooth Earbuds ...",
+        "link": "https://www.jiomart.com/p/electronics/hammer-aeromax-anc-32-db-tws-bt-v5-4-low-latency-in-ear-bluetooth-earbuds-with-clear-enc-calling-quad-mics-type-c-touch-controls-deep-bass-30-hrs-playtime-white/609566914?source=shoppingads",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:17435301843654790946",
+        "product_id": "17435301843654790946",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=17435301843654790946",
+        "source": "JioMart - Electronics",
+        "price": "\u20b91,299.00",
+        "extracted_price": 1299.0,
+        "extensions": [
+            "With Microphone",
+            "White"
+        ],
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcST6wUGgRiTwFn9RBrpzNBXTnLFySqtpwSxFyboHmiHQSv9KyNq-nyTC5Qtigkm7TIiIzfOnnrnq-6JBZ6m5Oo9fMPeuUyJk6vespX1uGLvdSw1nzFP1zfw&usqp=CAE"
+    },
+    {
+        "position": 26,
+        "title": "Cosmic Byte CosmoBuds X50 True Wireless (TWS) Earbuds, BT 5.3, 40 Hrs Playtime ...",
+        "link": "https://www.thecosmicbyte.com/product/cosmic-byte-cosmobuds-x50-true-wireless-tws-earbuds-bt-5-3-40-hrs-playtime-40ms-music-god-mode-enc-dns-quad-mics/?attribute_pa_color=black&utm_source=Google%20Shopping&utm_campaign=googlefeeds&utm_medium=cpc&utm_term=143844",
+        "product_link": "https://www.google.com/shopping/product/15994610674742415388?gl=in",
+        "product_id": "15994610674742415388",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=15994610674742415388",
+        "number_of_comparisons": "5+",
+        "comparison_link": "https://www.google.com/shopping/product/15994610674742415388/offers?uule=w+CAIQICIFSW5kaWE&q=Bluetooth+earphones+5000&hl=en&gl=in&prds=eto:3782450575358638561_0,pid:3792167403369010239,rsk:PC_16818785112817028944&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECI0O",
+        "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A3782450575358638561_0%2Cpid%3A3792167403369010239%2Crsk%3APC_16818785112817028944&gl=in&hl=en&offers=1&product_id=15994610674742415388&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECI0O",
+        "source": "Cosmic Byte",
+        "price": "\u20b9699.00",
+        "extracted_price": 699.0,
+        "rating": 4.4,
+        "reviews": 76,
+        "extensions": [
+            "Noise Cancelling",
+            "Black"
+        ],
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTGe7pnAnFyjM5WMn5ByCvKHwYUa4CKEdbWY0hkjdRvef41-s74nso7SOm-4uBjRTN43eFlMytPOwhsGfeKWB0_btfmFHtbPfvtfojZLn6g05EtHseDwjFp&usqp=CAE"
+    },
+    {
+        "position": 27,
+        "title": "Realme Buds Air 5 TWS In-Ear Earbuds | 50dB ANC | 12.4mm Mega Titanized Dynamic ...",
+        "link": "https://kishop.in/product/realme-buds-air-5-tws-in-ear-earbuds-50db-anc-12-4mm-mega-titanized-dynamic-bass-driver-up-to-38-hrs-playtime-with-fast-charging-2-color-options/",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:9280309619104361077",
+        "product_id": "9280309619104361077",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=9280309619104361077",
+        "source": "Kishop",
+        "price": "\u20b93,499.00",
+        "extracted_price": 3499.0,
+        "rating": 4.8,
+        "reviews": 717,
+        "extensions": [
+            "Noise Cancelling"
+        ],
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTAkIjlOrV-QSMA2g9fVE6c1rNyV60t5TO0EWECAEfJtTKJz8wh_VYqA5wNGEWY1SdlVK-6mJd4ZhwHAAwxa6rLyUqqdG-XkxIdJig0MR8&usqp=CAE"
+    },
+    {
+        "position": 28,
+        "title": "Kayroo KTW507(ZX) TWS Earbuds, 32 Hours Playback , Powerful Bass with Active ...",
+        "link": "https://www.kayrooaudio.com/product/30524680/Kayroo-KTW507-ZX--TWS-Earbuds--32-Hours-Playback---Powerful-Bass-with-Active-Noise-Cancellation---HD-Audio?utm_source=GMC",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:16428365388810833585",
+        "product_id": "16428365388810833585",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=16428365388810833585",
+        "source": "kayrooaudio.com",
+        "price": "\u20b9849.00",
+        "extracted_price": 849.0,
+        "extensions": [
+            "Noise Cancelling"
+        ],
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQOwPqD9FQ6OXbImiLCwShcGO62f9BBvHwMwSXQ9se7YlxNNlyzV-6h-v8KpzF1peug2eUkVvt2XAUgEAQ11tsCk4GiXCgN6odKl1gpSxazyOEVMyE_Nr7J&usqp=CAE"
+    },
+    {
+        "position": 29,
+        "title": "MARVIK Tws In Ear Earbuds True Wireless In Ear Earbuds Bluetooth 5.1 With Mic And ...",
+        "link": "https://www.glowroad.com/pd/marvik-tws-in-ear-earbuds-true-wireless-in-ear-earbuds-bluetooth-5-1-with-mic-and-charging-case-bluetooth-headset-in-ear-earbuds-for-ios-android/31611108?srsltid=AfmBOor9JIZB91sBJwVWzqZHWrJTGRC9rMUJBFV8KKvrzUNvHLYvD2gd6r4",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:16462376145874742147",
+        "product_id": "16462376145874742147",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=16462376145874742147",
+        "source": "GlowRoad",
+        "price": "\u20b9170.00",
+        "extracted_price": 170.0,
+        "extensions": [
+            "With Microphone"
+        ],
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRjxLQdDI21whhILV8vm_561x6Y7NfVV6iz6V05XVVpstcs5JFjimcasIqDfDQi29EXNJlkvGXwVKwRltTODsVro_GiizwI&usqp=CAE"
+    },
+    {
+        "position": 30,
+        "title": "Hammer Screen TWS Bluetooth Earbuds with 32 db ANC + ENC and On Case Display ...",
+        "link": "https://hammeronline.in/products/hammer-screen-tws-bluetooth-earbuds-with-anc-and-on-case-display?variant=42935675027592&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqrwE3-F4vYqSRlKDyMeW18s0psWI9Sc7f74Wrmp65dwJoaF1gvdeM&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:11901768287127059519",
+        "product_id": "11901768287127059519",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=11901768287127059519",
+        "source": "Hammer",
+        "price": "\u20b92,999.00",
+        "extracted_price": 2999.0,
+        "extensions": [
+            "Black"
+        ],
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSrId9LkmVcW3yDcwjl2C3p8Nk6h0kd8FHRQByBdeynRGXu-F_sN5WN3EB9ymvUM4Z7ny_dd-AWv7dgIR1VaBROHGQ9JSxk_4tJPKnpb8S2Jub-MBgL1oNY2w&usqp=CAE"
+    },
+    {
+        "position": 31,
+        "title": "BOSTON LEVIN Bluetooth V5.0 Neckband in-Ear Wireless Bluetooth Earphones with Mic ...",
+        "link": "https://www.nykaaman.com/boston-levin-bluetooth-v5-0-neckband-in-ear-wireless-bluetooth-earphones-with-mic/p/11094638?ptype=product&skuId=11094638",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:14189784028679168059",
+        "product_id": "14189784028679168059",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=14189784028679168059",
+        "source": "Nykaa Man",
+        "price": "\u20b91,890.00",
+        "extracted_price": 1890.0,
+        "extensions": [
+            "With Microphone",
+            "Grey"
+        ],
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQqtX4O85IvwvWIUWsOZDK6JntVjuobw4kSgTbHFKKbCLfh8x6bdbXJ6GXCXkBBcHHDOmvP5vT8n6N21gBydBqBl2sAIiOzVuowHWZ9WijTgKN63XrTSN2WlQ&usqp=CAE"
+    },
+    {
+        "position": 32,
+        "title": "boAt TWS Airdopes 161 Wireless Earbuds Assassin Red",
+        "link": "https://snapmint.com/p/boat-airdopes-161-deadpool-edition-wireless-earbuds-with-40-hours-playback-asap-charge-boat-immersive-sound-bluetooth-v5-1-assassin-red-truly-wireless-earphones-tws-on-emi",
+        "product_link": "https://www.google.com/shopping/product/9674701232341361742?gl=in",
+        "product_id": "9674701232341361742",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=9674701232341361742",
+        "number_of_comparisons": "3",
+        "comparison_link": "https://www.google.com/shopping/product/9674701232341361742/offers?uule=w+CAIQICIFSW5kaWE&q=Bluetooth+earphones+5000&hl=en&gl=in&prds=eto:15757385440829387741_0,pid:4301423457121578624,rsk:CID_9674701232341361742&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECNsO",
+        "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A15757385440829387741_0%2Cpid%3A4301423457121578624%2Crsk%3ACID_9674701232341361742&gl=in&hl=en&offers=1&product_id=9674701232341361742&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECNsO",
+        "source": "EMI Snapmint",
+        "price": "\u20b9989.00",
+        "extracted_price": 989.0,
+        "rating": 4.9,
+        "reviews": 17,
+        "extensions": [
+            "With Microphone",
+            "Red"
+        ],
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRzq-Z7PXbxUMtopindyzoIswO5us1k7Xa6YCfnkA2MENATfeghpiYSHDCBwsWSvimI39j5MElLt2faohspyJ3yaMajw4TiPfTtsLwwKw0&usqp=CAE"
+    },
+    {
+        "position": 33,
+        "title": "TecSox Pro 5 Bluetooth Earbud | Voice Assistant | 30 Hr Playtime | IPX Water ...",
+        "link": "https://tecsox.com/products/tecsox-pro-5-bluetooth-earbud-voice-assistant-30-hr-playtime-ipx-water-resistant?variant=45917476094109&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOop0dTuLf0c6-KHmv26WhtjX0dgIgU_U1SFi23sTkoqzdvY-XmkWq4g&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:6629639659385174614",
+        "product_id": "6629639659385174614",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=6629639659385174614",
+        "source": "TecSox",
+        "price": "\u20b9799.00",
+        "extracted_price": 799.0,
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ8UJDVsi1m6gsM98osgjoD0LcdoW8ZiZDsCYURTq2YCSMKj6K9rHHcmQmxXVZI05AmZwAqlQhr4GjkxSIB9M9wPnbR9LpV_YnFqQELEFNSZOkTG5B9O7Z9Fg&usqp=CAE"
+    },
+    {
+        "position": 34,
+        "title": "truke Newly Launched Buds Liberty Open Ear Wireless Earbuds, Onyx Black",
+        "link": "https://www.addmecart.com/shop/mobile-accessories/mobile-devices/earbuds/truke-newly-launched-buds-liberty-open-ear-wireless-earbuds-onyx-black/?utm_source=Google+Shopping&utm_medium=cpc&utm_campaign=new+feed+file&srsltid=AfmBOopAYAV-EyNCl67SZOKWsaUpEob1IQMwC-3X8NyulI9Zc8I2SowcuQQ",
+        "product_link": "https://www.google.com/shopping/product/7008189717801519049?gl=in",
+        "product_id": "7008189717801519049",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=7008189717801519049",
+        "number_of_comparisons": "5+",
+        "comparison_link": "https://www.google.com/shopping/product/7008189717801519049/offers?uule=w+CAIQICIFSW5kaWE&q=Bluetooth+earphones+5000&hl=en&gl=in&prds=eto:8064678684555577986_0,pid:3416362675336077485&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECPUO",
+        "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A8064678684555577986_0%2Cpid%3A3416362675336077485&gl=in&hl=en&offers=1&product_id=7008189717801519049&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECPUO",
+        "source": "addmecart.com",
+        "price": "\u20b91,449.00",
+        "extracted_price": 1449.0,
+        "extensions": [
+            "Noise Cancelling",
+            "Siri"
+        ],
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSdmzxRNTZmtoFgJ9hLVY190QFZ28PUatMDLQOwZyCWTmL8XrcFHuA-JAyeVAn25Os9HHk3_jTx1iXjoPJ0I6QP9U8ZSS6zqjT8D7SbaN3K-DODjkuSjNwR&usqp=CAE"
+    },
+    {
+        "position": 35,
+        "title": "Xewiss 2023 New Arrival Wireless Earphone True Wireless Waterproof With Charging ...",
+        "link": "http://www.flipkart.com/xewiss-2023-new-arrival-wireless-earphone-true-waterproof-charging-box-bluetooth/p/itm7b817a08ba5ee?pid=ACCGUUA2W3JERRUG&lid=LSTACCGUUA2W3JERRUGGWS4Y4&marketplace=FLIPKART&cmpid=content_headphone_8965229628_gmc",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:4554911528734155302",
+        "product_id": "4554911528734155302",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=4554911528734155302",
+        "source": "Flipkart",
+        "price": "\u20b9599.00",
+        "extracted_price": 599.0,
+        "extensions": [
+            "With Microphone",
+            "Grey"
+        ],
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR_rmyJTlU89v1KMVig8zHGA87JYca1MoqU3zlFtGhXtfVlmA1wM9ToBHAaY1Jhag3haB0_CkekHK0pEIYG5I3JbUrIy0Bwkg1DzHPoyo8I-6w-ia1bMQHafA&usqp=CAE"
+    },
+    {
+        "position": 36,
+        "title": "Life Like Pro In Ear Tws Black 6 Months Wireless In Ear 1 UNIT Wireless No No 95 ...",
+        "link": "https://www.snapdeal.com/product/life-like-tws-with-1500/687093694647?supc=SDL962767691&utm_source=earth&utm_medium=687093694647_288_7_318&vendorCode=Sdbd67&isSellerPage=true&fv=true",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:309163738748297026",
+        "product_id": "309163738748297026",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=309163738748297026",
+        "source": "Snapdeal",
+        "price": "\u20b9318.00",
+        "extracted_price": 318.0,
+        "extensions": [
+            "Black"
+        ],
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTFJJHGDb5XxyV4V9S6zaVBkaroW7DYwZ4d6bT4LV1fKjAAbNbfcGjwDngQW_uLPwg0js_mfxwsauNYqyEKBH10HumbpEqQ8BS9KPY0aqpTVjh4Kk6o8gaV&usqp=CAE"
+    },
+    {
+        "position": 37,
+        "title": "Noise Buds Connect Truly Wireless in Ear Earbuds with 50H Playtime, Quad Mic with ...",
+        "link": "https://blinkit.com/prn/noise-buds-connect-tws-earbuds-(black)/prid/542982?lat=26.4217357064079&lon=80.3262414741975",
+        "product_link": "https://www.google.com/shopping/product/4288688564246331074?gl=in",
+        "product_id": "4288688564246331074",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=4288688564246331074",
+        "number_of_comparisons": "10+",
+        "comparison_link": "https://www.google.com/shopping/product/4288688564246331074/offers?uule=w+CAIQICIFSW5kaWE&q=Bluetooth+earphones+5000&hl=en&gl=in&prds=eto:16351026897819240922_0,pid:2477330186398023089,rsk:PC_10717951219954533074&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECJ0P",
+        "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A16351026897819240922_0%2Cpid%3A2477330186398023089%2Crsk%3APC_10717951219954533074&gl=in&hl=en&offers=1&product_id=4288688564246331074&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECJ0P",
+        "source": "blinkit",
+        "price": "\u20b91,199.00",
+        "extracted_price": 1199.0,
+        "rating": 4.8,
+        "reviews": 134,
+        "extensions": [
+            "Noise Cancelling",
+            "Black"
+        ],
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQDt4_mBdhtneMm3eBsYzpX20kmt_Q_DmYP1Zwes0A6oI-CyjlsT7cY8kG1KuIM3rLEDd_iHkEhKrbYYHkYCpSso-DMxeYKMJB4bRiO-NhPD_ugeCgbpMTc&usqp=CAE"
+    },
+    {
+        "position": 38,
+        "title": "Sony WF-C500 True Wireless Earbuds Green | Headphone Zone",
+        "link": "https://luxury.tatacliq.com/sony-wf-c500-true-wireless-bluetooth-earbuds-with-mic-green/p-mp000000012795040?srsltid=AfmBOorQMgwHUDWquchDwOkSLo4deGcArby9M4R2hNkYNVRoQh9mwBPu8kA",
+        "product_link": "https://www.google.com/shopping/product/7900485838267822775?gl=in",
+        "product_id": "7900485838267822775",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=7900485838267822775",
+        "number_of_comparisons": "5+",
+        "comparison_link": "https://www.google.com/shopping/product/7900485838267822775/offers?uule=w+CAIQICIFSW5kaWE&q=Bluetooth+earphones+5000&hl=en&gl=in&prds=eto:443738842365317638_0,pid:3633466963588547903,rsk:PC_15863344095807586235&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECKwP",
+        "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A443738842365317638_0%2Cpid%3A3633466963588547903%2Crsk%3APC_15863344095807586235&gl=in&hl=en&offers=1&product_id=7900485838267822775&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECKwP",
+        "source": "TATA CLiQ LUXURY",
+        "price": "\u20b94,970.00",
+        "extracted_price": 4970.0,
+        "rating": 4.3,
+        "reviews": 7526,
+        "extensions": [
+            "With Microphone",
+            "Green"
+        ],
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRnkjC6nxBOdnT6lAS4PEbgeGRgnqzvYhnJDZmGA912a_f1LtGusFQ7huI3CrSVKNwJ7sE-OGvsECBb-ae9XqdLSf5dmiEpqrt88EbhZ9mbSmqBTuiSq8UxOw&usqp=CAE"
+    },
+    {
+        "position": 39,
+        "title": "Starbuds 5 Black",
+        "link": "https://www.swiggy.com/stores/instamart/p/nu-republic-starbuds-5-enc-hall-sensor-dual-mode-with-led-lights-with-50-hrs-playtime-true-wireless-earbuds-black-U4U2ZYT13K?storeId=1383824&srsltid=AfmBOoocf9D009_VERQgh-7_U7Yht2kpu9HwPBPGppV8dPjCIJRiyHu4yuk",
+        "product_link": "https://www.google.com/shopping/product/4217638968999438770?gl=in",
+        "product_id": "4217638968999438770",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=4217638968999438770",
+        "number_of_comparisons": "10+",
+        "comparison_link": "https://www.google.com/shopping/product/4217638968999438770/offers?uule=w+CAIQICIFSW5kaWE&q=Bluetooth+earphones+5000&hl=en&gl=in&prds=eto:2358700335021736482_0,pid:1027226831789863507&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECLkP",
+        "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A2358700335021736482_0%2Cpid%3A1027226831789863507&gl=in&hl=en&offers=1&product_id=4217638968999438770&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECLkP",
+        "source": "Swiggy Instamart",
+        "price": "\u20b91,049.00",
+        "extracted_price": 1049.0,
+        "extensions": [
+            "Black"
+        ],
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQsZ6aChaFe01wpXfV27lOkH5f4G8KbS8qJY7FdLEXIp_eN-GOiFOUil8CZG9Fli6AMkryh2XSuzDLMnu0FWGO5YPNu_LKZEx9Q-1ieibHWNFC4EhSAH4ip&usqp=CAE"
+    },
+    {
+        "position": 40,
+        "title": "HAMMER Aeromax ANC (32dB) TWS, BTv5.4, Low latency, in-Ear Bluetooth Earbuds with ...",
+        "link": "https://www.jiomart.com/p/electronics/hammer-aeromax-anc-32db-tws-btv5-4-low-latency-in-ear-bluetooth-earbuds-with-clear-enc-calling-quad-mics-type-c-touch-controls-deep-bass-30-hrs-playtime-white/609425411?source=shoppingads",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:2686230059710740463",
+        "product_id": "2686230059710740463",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=2686230059710740463",
+        "source": "JioMart",
+        "price": "\u20b91,299.00",
+        "extracted_price": 1299.0,
+        "old_price": "\u00b7 Was \u20b91,799.00",
+        "extracted_old_price": 1799.0,
+        "extensions": [
+            "With Microphone",
+            "White",
+            "PRICE DROP"
+        ],
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQpE_71l_wqpVb1WsO_Lz_32X4_U-UhweRMCf8D3Qw9s-N13xS2eP3L-MULv7XBMZzex0ulvXvyZdjrl0V6me90StlCb7_W447W6VmZl8CWP0MyMnyxIA7Y&usqp=CAE",
+        "tag": "PRICE DROP"
+    },
+    {
+        "position": 41,
+        "title": "Redmi Buds 5 Earbuds Truly Wireless Bluetooth (TWS) Upto 38Hrs Playback, 46dB ...",
+        "link": "https://www.zopic.in/shop/earbuds/redmi-buds-5-earbuds/?attribute_pa_colour=black&srsltid=AfmBOoruokMkIz7CBaneMmVCXcnmE0tO2p04Qpxq8-pfKEPfjFPsRPEdC5E",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:11086042521338737892",
+        "product_id": "11086042521338737892",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=11086042521338737892",
+        "source": "Zopic",
+        "price": "\u20b92,999.00",
+        "extracted_price": 2999.0,
+        "extensions": [
+            "Noise Cancelling"
+        ],
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQns9bLNfs_pKtvllAOmYPP7vURq5tS7W2Rtx6mhEZsxLrCLK6yEIdWOjzGfzKe5pfYHk2K5UZIjcQcFblBM3l6980Tmj5DA5_qNuUz7i1VOgrbSUgYOyM9&usqp=CAE"
+    },
+    {
+        "position": 42,
+        "title": "Boat Nirvana Ivy W/ 360 Spatial Audio, Dynamic Head Tracking,Anc~50db & App ...",
+        "link": "https://www.fliptwirls.com/shop/mobile-accessories/mobile-devices/earbuds/boat-nirvana-ivy-w-360-spatial-audio-dynamic-head-trackinganc50db-app-support-bluetooth-quartz-cyan-true-wireless/?utm_source=Google+Shopping&utm_medium=cpc&utm_campaign=gmc&srsltid=AfmBOoqO9tTXWzqjt_2490XOHQcVDCp6oi3lmjbd3p3AqQeiVZn3SnhqWDo",
+        "product_link": "https://www.google.com/shopping/product/174927327260338349?gl=in",
+        "product_id": "174927327260338349",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=174927327260338349",
+        "number_of_comparisons": "5+",
+        "comparison_link": "https://www.google.com/shopping/product/174927327260338349/offers?uule=w+CAIQICIFSW5kaWE&q=Bluetooth+earphones+5000&hl=en&gl=in&prds=eto:11300507662668063471_0,pid:6101791812552317762,rsk:PC_9685006497949792947&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECOIP",
+        "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A11300507662668063471_0%2Cpid%3A6101791812552317762%2Crsk%3APC_9685006497949792947&gl=in&hl=en&offers=1&product_id=174927327260338349&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECOIP",
+        "source": "fliptwirls.com",
+        "price": "\u20b93,249.00",
+        "extracted_price": 3249.0,
+        "rating": 2.8,
+        "reviews": 6,
+        "extensions": [
+            "Noise Cancelling"
+        ],
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTZfIBu66yLWX4ZLEF4wXRHpa3oQySvFzD8AWXVktaOvUxQrcLw_QvUgX_SDZQ4VjNdii26CN9VjxG_yL6Cbe3skUnpRfbmnINKR-tBuayx0JlTNX_Oxsah_A&usqp=CAE"
+    },
+    {
+        "position": 43,
+        "title": "Like Star Butterfly TWS-Wireless Earphone, Bluetooth Earbuds with Transparent ...",
+        "link": "https://www.amazon.in/Like-Star-Butterfly-TWS-Wireless-Earbuds/dp/B0D7HSN6QJ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AJ6SIZC8YQDZX",
+        "product_link": "https://www.google.com/shopping/product/9963615526201144047?gl=in",
+        "product_id": "9963615526201144047",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=9963615526201144047",
+        "source": "Amazon.in",
+        "price": "\u20b9433.00",
+        "extracted_price": 433.0,
+        "extensions": [
+            "White"
+        ],
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTl9eoaYyDuGNIDcr0tCLMua6DQ73kUFhxX-DctV1Ao54dOBg4-UH7LUYrjwthinuaJiL-D3KzJWomWH5c87dit4rvbBRGpvq_fmjkpQ3l3ZcCISZAHm5yolXXZ&usqp=CAE"
+    },
+    {
+        "position": 44,
+        "title": "pTron Tangent Flex Bluetooth 5.3 Wireless In-Ear Headphone with Mic, 38Hrs ...",
+        "link": "https://ptron.in/products/ptron-tangent-flex-bluetooth-5-3-wireless-in-ear-headphone-with-mic-38hrs-playtime-13mm-driver-dual-device-pairing-wireless-neckband-type-c-fast-charge-magnetic-buds-ipx5-water-resistant-blue?variant=40525963231312&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqtJsbL2qMn3Yu3O4YRkFF6tmBexFobIm-xDvDKZdsI3KeGdIXf6QM",
+        "product_link": "https://www.google.com/shopping/product/17723542629114980546?gl=in",
+        "product_id": "17723542629114980546",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=17723542629114980546",
+        "number_of_comparisons": "3",
+        "comparison_link": "https://www.google.com/shopping/product/17723542629114980546/offers?uule=w+CAIQICIFSW5kaWE&q=Bluetooth+earphones+5000&hl=en&gl=in&prds=eto:13569963763287161457_0,pid:6790485505563646497&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECPwP",
+        "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A13569963763287161457_0%2Cpid%3A6790485505563646497&gl=in&hl=en&offers=1&product_id=17723542629114980546&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECPwP",
+        "source": "pTron",
+        "price": "\u20b9599.00",
+        "extracted_price": 599.0,
+        "extensions": [
+            "With Microphone",
+            "Blue"
+        ],
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTBNAOv7sf_0oh1GY-309IQeyH5feAVEdjDSPwBngoAMN54HMye9jujvMk4WGeTxn0m4onjsjNcip_YRzNrWzra8Zajm4X7X0-HHhOwWlf11Iq1BKCbm6_IPQ&usqp=CAE"
+    },
+    {
+        "position": 45,
+        "title": "Xewiss 2023 New Original Wireless Earphone Bt5.0 Neckband Headphones Ipx5 ...",
+        "link": "https://www.shopsy.in/xewiss-2023-new-original-wireless-earphone-bt5-0-neckband-headphones-ipx5-waterproof-01-bluetooth-gaming/p/itma9a84a442cb48?pid=ACCGX7J4ARY5CHVF&lid=LSTACCGX7J4ARY5CHVF7TKINW&marketplace=FLIPKART",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:17027824391977591711",
+        "product_id": "17027824391977591711",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=17027824391977591711",
+        "source": "Shopsy By Flipkart",
+        "price": "\u20b9479.00",
+        "extracted_price": 479.0,
+        "extensions": [
+            "Waterproof",
+            "Blue"
+        ],
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRLZUhn9s7Q61f69Hkb5B21W7nAfji1F8zVEep2Reorp260fn6K0AXrQlt72WsYg5dF_728est4IFahblllF2GexImZsU3OSaaOT9trGdTrACIhN6MTRNx9ww&usqp=CAE"
+    },
+    {
+        "position": 46,
+        "title": "boAt Airdopes 161 Pro TWS Earbuds | 50 Hrs Playtime | ASAP Charge | Multi Point ...",
+        "link": "https://kishop.in/product/boat-airdopes-161-pro-new-launch-tws-earbuds-50-hrs-playtime-asap-charge-multi-point-connectivity-3-color-options-pack-of-1/?attribute_pa_colour=sleek-black",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:15579362264175157306",
+        "product_id": "15579362264175157306",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=15579362264175157306",
+        "source": "Kishop",
+        "price": "\u20b9990.00",
+        "extracted_price": 990.0,
+        "extensions": [
+            "Black"
+        ],
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQiZYjH7u0k43T51w5F74evOniqFdkNFpdJqmmtXNTDZDF5tXMiWxeHhbZxuJWIq9vLWGVMfyRiXSujaeZU6pWnsHNcYKjjPmH3OVTf4wyz8Vei7ZVb-xt5&usqp=CAE"
+    },
+    {
+        "position": 47,
+        "title": "TWS Neck Wireless Bluetooth 5.0 Earphones Magnetic Sports Running Headset ...",
+        "link": "https://www.dhgate.com/product/wireless-headphone-fone-bluetooth-5-0-neckband/861189107.html?f=bm%7CGMC%7C%7Bifdyn%3Adyn%7D%7Bifpla%3Apla%7D%7Bifdbm%7D%7C%7Bcampaignid%7D%7C%7Badgroupid%7D%7C861189107%7C%7Btargetid%7D%7C105005019%7CUS%7Chaoyu88%7C%7Bdevice%7D%7C2%7C%7Bgclid%7D%7C&utm_source=%7Bifdyn%3Adyn%7D%7Bifpla%3Apla%7D%7Bifdbm%3ADBM%7D&utm_medium=GMC&utm_campaign=haoyu88&utm_term=861189107&skuid=1110680231120617501",
+        "product_link": "https://www.google.com/shopping/product/11634901109047540815?gl=in",
+        "product_id": "11634901109047540815",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=11634901109047540815",
+        "source": "DHgate online store",
+        "price": "\u20b9235.43",
+        "extracted_price": 235.43,
+        "alternative_price": {
+            "price": "$2.80 + tax",
+            "extracted_price": 2.8,
+            "currency": "USD"
+        },
+        "rating": 4.3,
+        "reviews": 9,
+        "extensions": [
+            "With Microphone"
+        ],
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTuBE0goTJb2XD8LDchJhMGAVLI5Nr3eWe7AHe8fnMTyaLMZTT3T0kW7oyw2DXTS4evFPS3ULxIEy1qQBmuh4qe5TkEeoG8fXTSl63SlMQ&usqp=CAE"
+    },
+    {
+        "position": 48,
+        "title": "Bluetooth Headphones 5.0 Wireless Earbuds Ip6 Waterproof Quad Drivers Hifi With ...",
+        "link": "https://www.ubuy.co.at/en/product/3PDB3FEU2-bluetooth-headphones-5-0-wireless-earbuds-ip6-waterproof-quad-drivers-hifi-with-stereo-bass-10-hours-play-time-noise-cancelling-sweatproof-sport?srsltid=AfmBOopsU47VAfghDAgNhCRCCqQqhjg4rS5ZTf-MRV58XeLMPRXRdbtRles",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:11080059992092701204",
+        "product_id": "11080059992092701204",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=11080059992092701204",
+        "source": "Ubuy",
+        "price": "\u20b94,273.83",
+        "extracted_price": 4273.83,
+        "alternative_price": {
+            "price": "\u20ac47.00",
+            "extracted_price": 47.0,
+            "currency": "EUR"
+        },
+        "extensions": [
+            "Noise Cancelling"
+        ],
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTlrLAe1tPu_rP4GD6HN4kbi0cpHx1kFn-E83bE0JlA_EtKm8yJ_lkfbSs-uGG8eh7iV7nuyGAkOpI9Xj6I8fcy1oS8QtVc&usqp=CAE"
+    },
+    {
+        "position": 49,
+        "title": "Boat Airdopes 161 W/ 50hrs Playback, Enx Tech, 13mm Drivers,Beast Mode & Asap ...",
+        "link": "https://www.boat-lifestyle.com/products/airdopes-161?variant=41230749827170&currency=INR&srsltid=AfmBOopxmQiGYXntph6lLebhPUhMlPVTixx_GwswqaEMSTrJ_ygRfN6FhFM",
+        "product_link": "https://www.google.com/shopping/product/256671825540495215?gl=in",
+        "product_id": "256671825540495215",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=256671825540495215",
+        "number_of_comparisons": "2",
+        "comparison_link": "https://www.google.com/shopping/product/256671825540495215/offers?uule=w+CAIQICIFSW5kaWE&q=Bluetooth+earphones+5000&hl=en&gl=in&prds=eto:7640851834083429140_0,pid:14400659387382287620,rsk:CID_256671825540495215&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECL4Q",
+        "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A7640851834083429140_0%2Cpid%3A14400659387382287620%2Crsk%3ACID_256671825540495215&gl=in&hl=en&offers=1&product_id=256671825540495215&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECL4Q",
+        "source": "boAt",
+        "price": "\u20b9899.00",
+        "extracted_price": 899.0,
+        "rating": 4.9,
+        "reviews": 162,
+        "extensions": [
+            "With Touch Controls"
+        ],
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS6hZy6rJl7paw40jkuDZtmk3qvd_XQDTwIT-qwAuwuAeidrc_3YLrR3LMGoZwktMmQms5ls-Ttpcio2ai-IwHjTsQ4PygRJY94-bvPQB2S&usqp=CAE"
+    },
+    {
+        "position": 50,
+        "title": "Pitbull P5 Black True Wireless Earbuds",
+        "link": "https://www.tradeindia.com/products/pitbull-airbuds-p5-black-true-wirless-c8096950.html",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:12191545264540087162",
+        "product_id": "12191545264540087162",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=12191545264540087162",
+        "source": "Tradeindia.com",
+        "price": "\u20b91,25,000.00",
+        "extracted_price": 125000.0,
+        "extensions": [
+            "Black"
+        ],
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT-2NHaJrNAOhz9OL1jtoLw9nnHJkjM1k_afKK-d3qV4H2jjg8-kInmD8tF05GJOo2YniDWsRclAi7sgVECRUa5xVX-7Xmg63McQr7v0D-kArf8uHI0zlb6HQ&usqp=CAE"
+    },
+    {
+        "position": 51,
+        "title": "boAt Nirvana Ivy TWS Earbuds w/ 50dB Hybrid ANC & 360o Spatial Audio (Onesize) by ...",
+        "link": "https://www.93mobiles.com/product/boat-newly-launched-nirvana-ivy-truly-wireless-in-ear-earbuds-w-50db-hybrid-active-noise-cancellation-gunmetal-black/",
+        "product_link": "https://www.google.com/shopping/product/272357169009355307?gl=in",
+        "product_id": "272357169009355307",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=272357169009355307",
+        "number_of_comparisons": "5+",
+        "comparison_link": "https://www.google.com/shopping/product/272357169009355307/offers?uule=w+CAIQICIFSW5kaWE&q=Bluetooth+earphones+5000&hl=en&gl=in&prds=eto:7391128452349869321_0,pid:7196684971177407094,rsk:CID_272357169009355307&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECNkQ",
+        "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A7391128452349869321_0%2Cpid%3A7196684971177407094%2Crsk%3ACID_272357169009355307&gl=in&hl=en&offers=1&product_id=272357169009355307&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECNkQ",
+        "source": "93mobiles.com",
+        "price": "\u20b92,499.00",
+        "extracted_price": 2499.0,
+        "rating": 2.2,
+        "reviews": 6,
+        "extensions": [
+            "Noise Cancelling",
+            "Black"
+        ],
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTpJBGNqESk_fgOOdH9nzTtRnVlrjyc_XjTxujZbP9ptSqaB3o8feU1rkam8d75HJxoyL5Son5U2Z70pHQAS3fRGBAUwdDF6ZfmFmbG19mUsJta-vQx438l&usqp=CAE"
+    },
+    {
+        "position": 52,
+        "title": "Soundcore True Wireless Earbuds (40 Hours Playtime) Refurbished + 5000mAh Power ...",
+        "link": "https://zoneofdeals.com/product/soundcore-life-note-true-wireless-earbuds-refurbished-5000mhz-power-bank-free/",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:1284937918848020477",
+        "product_id": "1284937918848020477",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=1284937918848020477",
+        "source": "Zoneofdeals",
+        "price": "\u20b91,099.00",
+        "extracted_price": 1099.0,
+        "second_hand_condition": "refurbished",
+        "extensions": [
+            "With Microphone"
+        ],
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS105fwJt7b0EYty6h4IgSh_LHp2B7L5MuVaB9AsyU-VN5-Z3zfE4IgLUqqN2egoZUY4lsOpQ3zZw1hGvGVrvYv_rUZez3-&usqp=CAE"
+    },
+    {
+        "position": 53,
+        "title": "Oxilag Display Earbuds Touch Screen Bluetooth Headphone Tws Noise Cancelling ...",
+        "link": "http://www.flipkart.com/oxilag-display-earbuds-touch-screen-bluetooth-headphone-tws-noise-cancelling-anc-enc/p/itm0e129406697e9?pid=ACCH3KPZNWKTGHJC&lid=LSTACCH3KPZNWKTGHJCO7YNSC&marketplace=FLIPKART&cmpid=content_headphone_8965229628_gmc",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:8925353420097408399",
+        "product_id": "8925353420097408399",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=8925353420097408399",
+        "source": "Flipkart",
+        "price": "\u20b91,489.00",
+        "extracted_price": 1489.0,
+        "extensions": [
+            "Noise Cancelling",
+            "White"
+        ],
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQgYSPXEz2MQ7-b6z0LghmxwX_gQL1bg0NhgN-UqXnsFLY9P7YqlAY6PyU2AVoe50u-e0bGme-5cvShrj6wpbHLl8wcGGAkmPLdO7PyAqua_DzBBDxbar6lhg&usqp=CAE"
+    },
+    {
+        "position": 54,
+        "title": "Kayroo KTW503(ZX) SPORT TWS Earbuds, 20 Hours Playback Time with Active Noise ...",
+        "link": "https://www.kayrooaudio.com/product/30524677/Kayroo-KTW503-ZX--SPORT-TWS-Earbuds--20-Hours-Playback-Time-with-Active-Noise-Cancellation---HD-Audio-with-Deep-Bass?utm_source=GMC",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:14415301092477553646",
+        "product_id": "14415301092477553646",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=14415301092477553646",
+        "source": "kayrooaudio.com",
+        "price": "\u20b9949.00",
+        "extracted_price": 949.0,
+        "extensions": [
+            "Noise Cancelling"
+        ],
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS9tZphY5sYlnT8zLxxnmuMuz6oJ-68sCRINUdVzUVFM2jl2HAcoaL3uCg6nVyt-SUsHMnDjTgL8y_chI6zU1S1zna7NRWYCgbhVBPTdZFUtiecz-GGMxkS&usqp=CAE"
+    },
+    {
+        "position": 55,
+        "title": "Nillkin Wireless Earbuds Bluetooth 5.0 Tws Stereo Sport Earbuds Aptx Ipx5 ...",
+        "link": "https://www.ubuy.co.in/product/40RC56UQ0-nillkin-wireless-earbuds-bluetooth-5-0-apt-x-tws-stereo-sport-earbuds-qcc3020-ipx5-waterproof-hifi-in-ear-headphones-in-ear-built-in-mic-headset?srsltid=AfmBOooyUzf72aFy7SC4azTI1JcVQ86PL425zbZFBGOlch_6Oj87pEiYXW0",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:16609332156352255118",
+        "product_id": "16609332156352255118",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=16609332156352255118",
+        "source": "Ubuy",
+        "price": "\u20b99,002.00",
+        "extracted_price": 9002.0,
+        "extensions": [
+            "With Microphone"
+        ],
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRnWYfktBEwHaC3gAtDMAhH7DOZC1LV2skiphojf9kVpT3zNPsgyNGXScrsaF0Q2iefyMc-YT6Zf8tNl8_24CgihdrqJHsXSw&usqp=CAE"
+    },
+    {
+        "position": 56,
+        "title": "boAt Airdopes 161 with 40 Hours Playback, ASAP Charge & 10mm Drivers Bluetooth ...",
+        "link": "https://greenokramall.com/product/boat-airdopes-161-with-40-hours-playback-asap-charge-10mm-drivers-bluetooth-headset-true-wireless-black/?utm_source=Google%20Shopping&utm_campaign=GOM%20New&utm_medium=cpc&utm_term=17249",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:13226979209355377167",
+        "product_id": "13226979209355377167",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=13226979209355377167",
+        "source": "green okra mall",
+        "price": "\u20b9849.00",
+        "extracted_price": 849.0,
+        "extensions": [
+            "Black"
+        ],
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQMG9fJsXMubdHoqQFqxU3rfUzJHDHGQqyVtv_73gw6FoHsrYxB84gw8Ek3GudpVAtAXy_JUCWwnOupmF-LqIXwRGKBtGt3&usqp=CAE"
+    },
+    {
+        "position": 57,
+        "title": "Max Bluetooth 5.0 Earphones TWS Wireless Stereo Earbuds with Mic Charging Case",
+        "link": "https://aladdinshoppers.com/products/bluetooth-5-0-earphones-tws-wireless-stereo-earbuds-with-mic-charging-case?variant=43276313297077&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopunCKdm4tLmfzUe1bqR-sQBrRWvEA38tCamv4rgY2a_d7tU2mq2Aw",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:16232855336881851667",
+        "product_id": "16232855336881851667",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=16232855336881851667",
+        "source": "Aladdin Shoppers",
+        "price": "\u20b92,624.00",
+        "extracted_price": 2624.0,
+        "extensions": [
+            "With Microphone"
+        ],
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTtBtvqHU8h6H-NsHetucVIizCDe1ZQbjZhtsWoH7-NpyuKl5fkEB1bKsX6KOja6_TG06YtJfPXQ98qcfmHZhq6mT2vAovzFt6C1uXqIUZ9uqHa07VodyU3lA&usqp=CAE"
+    },
+    {
+        "position": 58,
+        "title": "GOVO GOKIXX 630 in-Ear Neckband with Magnetic Earbuds 10 Hrs+ Playtime IPX5 ...",
+        "link": "https://vlebazaar.in/GOVO-GOKIXX-630-Wireless-Neckband-with-ASAP-Charge-Upto-10H-Play-time-Platinum-Black?srsltid=AfmBOooXsHs6B8s5L2th-06iS2Fv2jazpzzRYG8ROKVzGzfkYmBAX4fIDDk",
+        "product_link": "https://www.google.com/shopping/product/16143057732721395951?gl=in",
+        "product_id": "16143057732721395951",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=16143057732721395951",
+        "source": "vlebazaar",
+        "price": "\u20b91,199.00",
+        "extracted_price": 1199.0,
+        "extensions": [
+            "Black"
+        ],
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSighmU5SdZZMoWoNK2cdhihUJjdsv1IhWOdm84Ajs6FkdrHXPaGkdyCVpbFuuCT2wqFcNXz9D8w3H3rm-POqaVlByYkx44aRcbE_8Y3gL_Jepny0vTyaQXmA&usqp=CAE"
+    },
+    {
+        "position": 59,
+        "title": "REMAX TWS-50i True Wireless Stereo Bluetooth Earphone(Black)",
+        "link": "https://garmade.com/products/remax-tws-50i-true-wireless-stereo-bluetooth-earphoneblack?currency=EUR&variant=48140511641942&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=184cbace4266&srsltid=AfmBOopxvVac6tCkAb5jz7bQ8s53vXvAukg6we3TUkkKcGOsv-34cTo79bU",
+        "product_link": "https://www.google.com/shopping/product/1?gl=in&prds=pid:13131069771067990831",
+        "product_id": "13131069771067990831",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=13131069771067990831",
+        "source": "Garmade",
+        "price": "\u20b91,649.52",
+        "extracted_price": 1649.52,
+        "alternative_price": {
+            "price": "\u20ac18.14",
+            "extracted_price": 18.14,
+            "currency": "EUR"
+        },
+        "extensions": [
+            "Surround Sound",
+            "Black"
+        ],
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRWC0YozNQC-flKHLSanvuQSA47TDF9Nku-ZueBl_3ryOeET9c9TS9gANQba8gI7iJx7kyIF548S2dBBvwVr2S2FMvurl7ZwA1BON0uVSO86ojtggJ8nzzszg&usqp=CAE"
+    },
+    {
+        "position": 60,
+        "title": "Boult Audio K60 True Wireless in Ear Earbuds, Black",
+        "link": "https://www.boultaudio.com/products/k60?variant=40832702087237&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooTCc5uGqbInpi9pI6uOfz2DPSpeRB4cuwEPIwCdWkFT8sIIQXeO7Y",
+        "product_link": "https://www.google.com/shopping/product/9281618364479297719?gl=in",
+        "product_id": "9281618364479297719",
+        "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=in&google_domain=google.com&hl=en&location=India&product_id=9281618364479297719",
+        "number_of_comparisons": "4",
+        "comparison_link": "https://www.google.com/shopping/product/9281618364479297719/offers?uule=w+CAIQICIFSW5kaWE&q=Bluetooth+earphones+5000&hl=en&gl=in&prds=eto:15725749408602811224_0,pid:9695850480079198750,rsk:PC_3741703350107293991&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECMwR",
+        "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A15725749408602811224_0%2Cpid%3A9695850480079198750%2Crsk%3APC_3741703350107293991&gl=in&hl=en&offers=1&product_id=9281618364479297719&sa=X&ved=0ahUKEwi7k4XMh6GJAxUuJEQIHTA2Ao4Q3q4ECMwR",
+        "source": "Boult Audio",
+        "price": "\u20b91,499.00",
+        "extracted_price": 1499.0,
+        "rating": 4.6,
+        "reviews": 20,
+        "extensions": [
+            "With Microphone",
+            "Black"
+        ],
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSeLZVol-dhE0XW4hBAFjyD4zMtTvroVlXWjRMtNUjEsfYcnsJoxHjyorEXphotUvNU6RV08oAtkShWwp1ELhrGqRZJupj1lTS6a8X4j7khVLnSy0DRigLS_Q&usqp=CAE"
     }
 ]
